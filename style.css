@@ -1,0 +1,517 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: lato;
+}
+.all{
+    width:100% ;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+/* header css start */
+header{
+    width: 100%;
+    background-color: #212121;
+}
+.header-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    margin:0 250px;
+    height: 80px;
+    border-bottom:3px solid #595959  ;
+}
+.header-1 a{
+    text-decoration: none;
+    color:#ff3448;
+    font-size:17px ;
+    margin:0 25px ;
+    font-weight: 500;
+}
+.search i{
+    font-size: 20px;
+    color: white;
+    padding:0 20px ;
+    border-left:2px solid #595959 ;
+    cursor: pointer;
+}
+.header-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin:0 250px ;
+    padding:0 0 10px;
+}
+.items{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    width:2000px ;
+}
+.items i{
+    color:#ff3448 ;
+    font-size:23px ;
+}
+.phone{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    margin-bottom:10px ;
+    cursor: pointer;    
+}
+.mobile{
+    margin-right: 50px;
+}
+.mobile p{
+    color:#a2a2a2 ;
+}
+.phone i{
+    font-size:18px ;
+    margin-right:15px ;
+}
+.phone h4{
+    color: white;
+    font-size:18px ;
+    letter-spacing:1px ;
+}
+.star,.compare,.my-cart{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    margin:5px 0;
+    padding:10px 20px ;
+    border-left:2px solid #595959 ;
+    cursor: pointer;
+}
+.star,.compare,.my-cart h4{
+    color: white;
+}
+.star h4{
+    font-weight: 400;
+    margin-top:15px ;
+}
+.compare h4{
+    font-weight: 400;
+    margin-top: 15px;
+}
+.my-cart h4{
+    font-weight: 400;
+    margin-top:15px ;
+}
+/* header css end */
+/* nav css start */
+nav{
+    width:100% ;
+    background-color:black ;
+}
+.nav-items{
+    display: flex;
+    flex-direction:row ;
+    align-items:center ;
+    justify-content:start ;
+    margin:0 270px ;
+}
+.nav-items a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    margin:10px 9px ;
+    padding:10px 9px;
+    font-weight:600 ;
+}
+.nav-items a:hover{
+    background-color:white ;
+    color: black;
+    border-radius:20px ;
+    font-weight:600 ;
+}
+/* nav css end */
+/* container-1 css start */
+.container-1{
+    width:100% ;
+    background-image:url(main-car.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:900px ;
+}
+/* container-1 css end */
+/* container-2 css start */
+.container-2{
+    width:100% ;
+    display: flex;
+    flex-direction: column;
+}
+.con-1{
+    display: flex;
+    flex-direction:row ;
+    width: 100%;
+}
+.con-2{
+    display: flex;
+    flex-direction:row ;
+    width:100% ;
+}
+.headlights,.tyre,.inside-tyre,.chair{
+    width:50% ;
+    height:500px;
+}
+.headlights{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image:url(headlights.png) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.headlights h1{
+    font-size: 40px;
+    color: white;
+    margin-top:-120px ;
+    margin-bottom:10px ;
+    margin-left:50px ;
+}
+.headlights p{
+    color: #979696;
+    margin-left:50px ;
+    font-size:22px ;
+}
+.tyre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image:url(tyre.png) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tyre h1{
+    font-size: 40px;
+    color: white;
+    margin-top:-120px ;
+    margin-bottom:10px ;
+    margin-left:50px ;
+}
+.tyre p{
+    color: #979696;
+    margin-left:50px ;
+    font-size:22px ;
+}
+.inside-tyre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image:url(inside-tyre.png) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.inside-tyre h1{
+    font-size: 40px;
+    color: white;
+    margin-top:-120px ;
+    margin-bottom:10px ;
+    margin-left:50px ;
+}
+.inside-tyre p{
+    color: #979696;
+    margin-left:50px ;
+    font-size:22px ;
+}
+.chair{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image:url(chair.png) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.chair h1{
+    font-size: 40px;
+    color: white;
+    margin-top:-120px ;
+    margin-bottom:10px ;
+    margin-left:50px ;
+}
+.chair p{
+    color: #979696;
+    margin-left:50px ;
+    font-size:22px ;
+}
+/* container-2 css end */
+/* container-3 css start */
+.container-3{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:100px 100px ;
+    background-color: #282828;
+}
+.container-3 h1{
+    margin-left:570px ;
+    width:450px ;
+    text-align: center;
+    font-size:40px ;
+    color:white ;
+    border-bottom:7px solid #9c1c28 ;
+    padding-bottom:20px ;
+    margin-bottom:30px ;
+}
+.wraper{
+    display: flex;
+    flex-direction: row;
+}
+.wraper-1,.wraper-2,.wraper-3,.wraper-4,.wraper-5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+    background-color: #363636;
+    margin:30px 15px ;
+}
+.wraper h3{
+    color: #ff3448;
+    font-size: 20px;
+    font-weight:550 ;
+    letter-spacing:1px ;
+    margin-bottom:10px ;
+}
+.wraper h2{
+    color: white;
+    font-size:28px ;
+    font-weight: 600;
+    margin-bottom:7px ;
+    letter-spacing: 1px;
+}
+.stars-1 i{
+    color: #ff3448;
+    margin-bottom:40px ;
+    font-size: 17px;
+}
+/* container-3 css end */
+/* container-4 css start */
+.container-4{
+    width:100% ;
+    background-color: black;
+    background-image: url(cars.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px 50px ;
+    display: flex;
+    flex-direction:column ;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    display:flex ;
+    flex-direction: row;
+}
+.heading h1{
+    font-size:70px ;
+    color: white;
+    margin-bottom:5px ;
+    word-spacing:10px ;
+}
+.heading h2{
+    color: white;
+    font-size:50px ;
+    font-weight: 500;
+    margin-bottom: 10px;
+    word-spacing:5px ;
+}
+.heading p{
+    color: white;
+    font-size: 20px;
+    margin-bottom:20px ;
+}
+.heading button{
+    width:180px ;
+    font-size: 20px;
+    padding:10px 0 ;
+    border: none;
+    border-radius: 30px;
+    background-color:#9c1c28 ;
+    color: white;
+    cursor: pointer
+    ;
+}
+.heading-1,.heading-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:50px 10px ;
+}
+.heading-1{
+    margin-right:170px ;
+}
+.heading-2{
+    margin-left:170px ;
+}
+/* container-4 css end */
+/* container-5 css start */
+.container-5{
+    width:100% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    background-color: black;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    border-bottom:2px solid #595959 ;
+    padding-bottom:100px ;  
+}
+.lin-1,.lin-2{
+    display: flex;
+    flex-direction: row;
+
+}
+.links h1{
+    font-size: 23px;
+    padding-bottom:10px ;
+    margin-bottom: 20px;
+    border-bottom:5px solid #9c1c28 ;
+    width:150px ;
+    color: white;
+}
+.links a{
+    text-decoration: none;
+    color: #ee3143;
+    margin: 8px;
+}
+.link-1,.link-2,.link-3,.link-4{
+    display: flex;
+    flex-direction: column;
+    width:100% ;
+    margin:0 50px ;
+}
+.link-4 p{
+    color: #887979;
+}
+.link-4 input{
+    width:300px ;
+    height: 40px;
+    background-color:#282828 ;
+    border: none;
+    margin-top:10px ;
+    margin-bottom:25px ;
+    color: white ;
+    font-size:20px ;
+}
+.link-4 button{
+    width:100px ;
+    height: 30px;
+    background-color: #9c1c28;
+    border: none;
+    color:white ;
+    border-radius:30px ;
+    font-size:15px ;
+    cursor: pointer;
+}
+.links-2{
+    margin-top:100px ;
+}
+.links-2 i{
+    color: white;
+    font-size: 20px;
+    margin:0 20px ;
+    cursor: pointer;
+}
+/* container-5  css end */
+/* container-6  css start */
+.container-6{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black ;
+}
+.articles{
+    display: flex;
+    flex-direction: row;
+    width: 1500px;
+    padding:100px 0 ;
+    border-bottom:2px solid #595959 ;
+}
+.articles h1{
+    font-size: 23px;
+    padding-bottom:10px ;
+    margin-bottom: 30px;
+    border-bottom:5px solid #9c1c28 ;
+    width:150px ;
+    color: white;
+}
+.articles p{
+    color: #887979;
+}
+.article-1,.article-2,.article-3{
+    display: flex;
+    flex-direction: column;
+    margin:0 20px ;
+}
+.article-3{
+    margin-left:100px ;
+}
+.about-us{
+    display: flex;
+    flex-direction: column;
+}
+.addres,.number,.time,.email{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0; 
+}
+.article-3 i{
+    color: #9c1c28;
+    margin-right: 15px;
+    margin-top: 2px;
+}
+/* container-6  css end */
+/* footer start */
+.container-7{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+.foot{
+    display:flex ;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    margin:50px 0 ;
+}
+.foot h2{
+    font-size:15px ;
+    margin-left:100px ;
+}
+.foot h3{
+    font-size:15px ;
+    color: #887979;
+    width: 200px;
+}
+.foot img{
+    margin-left:850px ;
+}
+/* footer end */

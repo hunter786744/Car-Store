@@ -1,0 +1,884 @@
+@media screen and (max-width:1440px){
+    .all{
+        max-width:1440px ;
+    }
+    .header-1{
+        margin:0 150px ;
+    }
+    .header-2{
+        margin:0 150px ;
+    }
+    .nav-items{
+        margin:0 170px ;
+    }
+    .container-1{
+        height:700px ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:400px ;
+    }
+    .wraper img{
+        width:250px ;
+    }
+    .container-3 h1{
+        margin-left:500px ;
+    }
+    .container-3{
+        padding:50px 50px ;
+    }
+    .heading h1{
+        font-size:60px ;
+    }
+    .heading h2{
+        font-size:40px ;
+    }
+    .container-5{
+        padding-top:80px ;
+    }
+    .links{
+        width:1350px ;
+        padding-bottom:80px ;
+    }
+    .articles{
+        width:1440px ;
+        padding:80px ;
+    }
+    .foot img{
+        margin-left:650px ;
+    }
+}
+@media screen and (max-width:1366px){
+    .all{
+        max-width:1366px ;
+    }
+    .header-1{
+        margin:0 120px ;
+    }
+    .header-2{
+        margin:0 120px ;
+    }
+    .nav-items{
+        margin:0 140px ;
+    }
+    .container-1{
+        height:650px ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:350px ;
+    }
+    .headlights h1{
+        font-size: 35px;
+        margin-top: 0;
+    }
+    .headlights p{
+        font-size: 21px;
+    }
+    .tyre h1{
+        font-size: 35px;
+        margin-top: 0;
+    }
+    .tyre p{
+        font-size: 21px;
+    }
+    .inside-tyre h1{
+        font-size: 35px;
+        margin-top: 0;
+    }
+    .inside-tyre p{
+        font-size: 21px;
+    }
+    .chair h1{
+        font-size: 35px;
+        margin-top: 0;
+    }
+    .chair p{
+        font-size: 21px;
+    }
+    .container-3 h1{
+        font-size:35px ;
+        width:400px ;
+        margin-left:450px ;
+    }
+    .wraper img{
+        width:230px ;
+    }
+    .links{
+        width:1250px ;
+    }
+    .articles{
+        width:1300px ;
+    }
+    .foot img{
+        margin-left:600px ;
+    }
+}
+@media screen and (max-width:1280px){
+    .all{
+        max-width:1280px ;
+    }
+    .header-1{
+        margin:0 100px ;
+    }
+    .header-2{
+        margin:0 100px ;
+    }
+    .nav-items{
+        margin:0 120px ;
+    }
+    .container-1{
+        height:620px ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:320px ;
+    }
+    .headlights h1{
+        font-size: 30px;
+    }
+    .headlights p{
+        font-size:20px;
+    }
+    .tyre h1{
+        font-size: 30px;
+    }
+    .tyre p{
+        font-size: 20px;
+    }
+    .inside-tyre h1{
+        font-size: 30px;
+    }
+    .inside-tyre p{
+        font-size: 20px;
+    }
+    .chair h1{
+        font-size: 30px;
+    }
+    .chair p{
+        font-size: 20px;
+    }
+    .container-3 h1{
+        font-size:30px ;
+        width:350px ;
+        margin-left:430px ;
+    }
+    .wraper img{
+        width:210px ;
+    }
+    .wraper h3{
+        font-size:18.5px ;
+        margin-top:10px ; 
+    }
+    .wraper h2{
+        font-size: 25px;
+    }
+    .stars-1 i{
+        font-size:15px ;
+    }
+    .container-4{
+        padding:80px 50px ;
+    }
+    .heading h1{
+        font-size:50px ;
+    }
+    .heading h2{
+        font-size:30px ;
+    }
+    .heading button{
+        width:150px ;
+        font-size:18px ;
+        font-weight:520 ;
+        padding:8px ;
+    }
+    .links{
+        width:1150px ;
+    }
+    .links-2 i{
+        margin:0 10px ;
+    }
+    .articles{
+        width:1200px ;
+    }
+    .foot img{
+        margin-left:500px ;
+    }  
+}
+@media screen and (max-width:1024px){
+    .all{
+        max-width:1024px ;
+    }
+    .header-1{
+        margin:0 30px ;
+    }
+    .header-2{
+        margin:0 40px ;
+    }
+    .header-2 img{
+        width: 150px;
+    }
+    .mobile{
+        margin-right:20px ;
+    }
+    .nav-items{
+        margin:0 50px ;
+    }
+    .container-1{
+        height:500px ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:250px ;
+    }
+    .headlights h1{
+        font-size:25px;
+    }
+    .headlights p{
+        font-size:18px;
+    }
+    .tyre h1{
+        font-size:25px;
+    }
+    .tyre p{
+        font-size: 18px;
+    }
+    .inside-tyre h1{
+        font-size: 25px;
+    }
+    .inside-tyre p{
+        font-size: 18px;
+    }
+    .chair h1{
+        font-size: 25px;
+    }
+    .chair p{
+        font-size: 18px;
+    }
+    .container-3{
+        padding:30px 0 ;
+    }
+    .container-3 h1{
+        font-size:28px ;
+        width:300px ;
+        margin-left:340px ;
+    }
+    .wraper img{
+        width:170px ;
+    }
+    .wraper h3{
+        font-size:16px ;
+        margin-top:10px ; 
+    }
+    .wraper h2{
+        font-size:20px;
+    }
+    .stars-1 i{
+        font-size:12px ;
+    }
+    .container-4{
+        padding:60px 50px ;
+    }
+    .heading h1{
+        font-size:40px ;
+    }
+    .heading h2{
+        font-size:25px ;
+    }
+    .heading p{
+        font-size: 18px;
+    }
+    .heading button{
+        width:120px ;
+        font-size:15px ;
+        font-weight:500 ;
+        padding:6px ;
+    }
+    .container-5{
+        padding-top:50px ;
+    }
+    .links{
+        width:950px ;
+        padding-bottom:50px ;
+    }
+    .links h1{
+        font-size:20px ;
+        width:130px ;
+        border-bottom:4px solid #9c1c28 ;
+    }
+    .links a{
+        font-size:15px ;
+    }
+    .link-4 p{
+        font-size: 15px;
+    }
+    .link-4 input{
+        font-size:15px ;
+    }
+    .link-1,.link-2,.link-3,.link-4{
+        margin:0 20px ;
+    }
+    .articles{
+        width:1000px ;
+        padding:50px ;
+    }
+    .articles h1{
+        font-size:20px ;
+        width:100px ;
+    }
+    .articles p{
+        font-size:15px ;
+    }
+    .foot img{
+        margin-left:250px ;
+    }    
+}
+@media screen and (max-width:960px){
+    .all{
+        max-width:960px ;
+    }
+    .header-1 a{
+        font-size:15px ;
+        margin:0 20px ;
+    }
+    .search i{
+        font-size:18px ;
+    }
+    .items i{
+        font-size:20px ;
+    }
+    .mobile p{
+        font-size:13px ;
+    }
+    .nav-items a{
+        font-size:15px ;
+    }
+    .container-1{
+        height:450px ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:225px ;
+    }
+    .headlights h1{
+        font-size:23px;
+        margin-left:30px ;
+        margin-top:0px ;
+    }
+    .headlights p{
+        font-size:16px;
+        margin-left: 30px;
+    }
+    .tyre h1{
+        font-size:23px;
+        margin-left:30px ;
+        margin-top: 0;
+    }
+    .tyre p{
+        font-size: 16px;
+        margin-left:30px ;
+    }
+    .inside-tyre h1{
+        font-size: 23px;
+        margin-left:30px ;
+        margin-top: 0;
+    }
+    .inside-tyre p{
+        font-size: 16px;
+        margin-left:30px ;
+    }
+    .chair h1{
+        font-size: 23px;
+        margin-left:30px ;
+        margin-top: 0;
+    }
+    .chair p{
+        font-size: 16px;
+        margin-left:30px ;
+    }
+    .container-3 h1{
+        font-size:25px ;
+        width:270px ;
+        margin-left:340px ;
+        padding-bottom:10px ;
+        margin-bottom:20px ;
+        border-bottom:5px solid #9c1c28 ;
+    }
+    .wraper img{
+        width:150px ;
+    }
+    .wraper h3{
+        font-size:15px ;
+        margin-top:10px ; 
+    }
+    .wraper h2{
+        font-size:18px;
+    }
+    .stars-1 i{
+        font-size:10px ;
+    }
+    .container-4{
+        padding:50px 50px ;
+    }
+    .heading h1{
+        font-size:30px ;
+    }
+    .heading h2{
+        font-size:20px ;
+    }
+    .heading p{
+        font-size: 15px;
+    }
+    .heading button{
+        width:100px ;
+        font-size:12px ;
+        padding:6px ;
+    }
+    .links{
+        width:850px ;
+        padding-bottom:50px ;
+    }
+    .links h1{
+        font-size:18px ;
+        width:115px ;
+        border-bottom:4px solid #9c1c28 ;
+    }
+    .links a{
+        font-size:12px ;
+    }
+    .link-4 p{
+        font-size: 12px;
+    }
+    .link-4 input{
+        font-size:15px ;
+        width:200px ;
+        height: 30px;
+    }
+    .link-4 button{
+        width:80px ;
+        height:25px ;
+        font-size:12px ;
+    }
+    .links-2 i{
+        font-size:17px ;
+    }
+    .articles{
+        width:900px ;
+        padding:50px ;
+    }
+    .articles h1{
+        font-size:18px ;
+        width:80px ;
+        border-bottom:4px solid #9c1c28 ;
+    }
+    .articles p{
+        font-size:12px ;
+    }
+    .foot{
+        margin:30px 0 ;
+    }
+    .foot h2{
+        font-size:13px ;
+    }
+    .foot h3{
+        font: size 13px; ;
+    }
+    .foot img{
+        margin-left:270px ;
+        width:250px ;
+    } 
+}
+@media screen and (max-width:800px){
+    .all{
+        max-width:800px ;
+    }
+    .header-1{
+        height:50px ;
+    }
+    .header-2 img{
+        width:120px ;
+    }
+    .items i{
+        font-size:18px ;
+    }
+    .phone h4{
+        font-size:15px ;
+    }
+    .mobile{
+        margin-right: 10px;
+    }
+    .mobile p{
+        font-size:10px ;
+    }
+    .star,.compare,.my-cart{
+        padding:10px 10px ;
+        margin:5px 0 ;
+    }
+    .star h4{
+        font-size: 13px;
+        margin-top:7px ;
+    }
+    .compare h4{
+        font-size:13px ;
+        margin-top: 7px;
+    }
+    .my-cart h4{
+        font-size:13px ;
+        margin-top:7px ;
+    }
+    .nav-items a{
+        font-size:12px ;
+        margin:10px 5px ;
+        padding:10px 5px ;
+    }
+    .container-1{
+        height:380px ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:190px ;
+    }
+    .headlights h1{
+        font-size:20px;
+    }
+    .headlights p{
+        font-size:13px;
+    }
+    .tyre h1{
+        font-size:20px;
+    }
+    .tyre p{
+        font-size: 13px;
+    }
+    .inside-tyre h1{
+        font-size: 20px;
+    }
+    .inside-tyre p{
+        font-size: 13px;
+    }
+    .chair h1{
+        font-size: 20px;
+    }
+    .chair p{
+        font-size: 13px;
+    }
+    .container-3 h1{
+        font-size:20px ;
+        width:220px ;
+        margin-left:280px ;
+    }
+    .wraper-1,.wraper-2,.wraper-3,.wraper-4,.wraper-5{
+        margin:10px 7px ;
+    }
+    .wraper img{
+        width:130px ;
+    }
+    .wraper h3{
+        font-size:13px ;
+        margin-top:10px ;
+        margin-bottom:5px ; 
+    }
+    .wraper h2{
+        font-size:15px;
+        margin-bottom:5px ;
+    }
+    .stars-1 i{
+        font-size:8px ;
+    }
+    .container-4{
+        padding:30px 30px ;
+    }
+    .heading h1{
+        font-size:25px ;
+    }
+    .heading h2{
+        font-size:15px ;
+    }
+    .heading p{
+        font-size: 12px;
+    }
+    .heading button{
+        width:100px ;
+        font-size:12px ;
+        padding:6px ;
+    }
+    .heading-1{
+        margin-right:100px ;
+    }
+    .heading-2{
+        margin-left:100px ;
+    }
+    .links{
+        width:700px ;
+        padding-bottom:30px ;
+    }
+    .links h1{
+        font-size:15px ;     
+    }
+    .links a{
+        font-size:10px ;
+        margin:5px ;
+    }
+    .link-4 p{
+        font-size: 10px;
+    }
+    .link-4 input{
+        font-size:10px ;
+    }
+    .links-2 i{
+        font-size:15px ;
+    }
+    .articles{
+        width:800px ;
+        padding:50px ;
+    }
+    .articles h1{
+        font-size:15px ;
+        width:70px ;
+
+    }
+    .articles p{
+        font-size:10px ;
+    }
+    .foot{
+        margin:30px 0 ;
+    }
+    .foot h2{
+        font-size:13px ;
+    }
+    .foot h3{
+       font-size: 13px;
+    }
+    .foot img{
+        margin-left:180px ;
+        width:250px ;
+    }
+}
+@media screen and (max-width:720px){
+    .all{
+        max-width: 720px;
+    }
+    .foot h2{
+        font-size:13px ;
+        margin-left: 30px;
+    }
+    .foot h3{
+   font-size: 13px;
+    }
+    .foot img{
+        margin-left:170px ;
+        width:250px ;
+    }
+}
+@media screen and (max-width:640px){
+    .all{
+        max-width: 640px;
+    }
+    .header-1{
+        justify-content: center;
+    }
+    .header-1 a{
+        font-size:12px ;
+        margin:0 10px ;
+    }
+    .search i{
+        font-size:15px ;
+        margin:0 15px ;
+    }
+    .header-2{
+        margin:10px 20px ;
+        justify-content: center;
+    }
+    .items{
+        display:none ;
+    }
+    .nav-items{
+        justify-content: center;
+    }
+    .container-1{
+        height:300px ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:150px ;
+    }
+    .headlights h1{
+        font-size:15px;
+    }
+    .headlights p{
+        font-size:10px;
+    }
+    .tyre h1{
+        font-size:15px;
+    }
+    .tyre p{
+        font-size: 10px;
+    }
+    .inside-tyre h1{
+        font-size: 15px;
+    }
+    .inside-tyre p{
+        font-size: 10px;
+    }
+    .chair h1{
+        font-size: 15px;
+    }
+    .chair p{
+        font-size: 10px;
+    }
+    .container-3 h1{
+        font-size:17px ;
+        width:190px ;
+        margin-left:200px ;
+    }
+    .wraper-1,.wraper-2,.wraper-3,.wraper-4,.wraper-5{
+        margin:10px 7px ;
+    }
+    .wraper img{
+        width:100px ;
+    }
+    .wraper h3{
+        font-size:13px ;
+        margin-top:10px ;
+        margin-bottom:5px ; 
+    }
+    .wraper h2{
+        font-size:15px;
+        margin-bottom:5px ;
+    }
+    .stars-1 i{
+        font-size:8px ;
+    }
+    .links{
+        flex-direction: column;
+        width:100% ;
+        margin:0 10px ;
+    }
+    .lin-1,.lin-2{
+        width:100% ;
+    }
+    .lin-2{
+        margin-top:50px ;
+    }
+    .link-4 p{
+        width:200px ;
+    }
+    .articles{
+        flex-direction:column ;
+        justify-content: center;
+        width:100% ;
+    }
+    .article-1,.article-2,.article-3{
+        margin:20px 0 ;
+        width:100% ;
+    }
+    .foot{
+        justify-content: center;
+    }
+    .foot img{
+        display: none;
+    }
+}
+@media screen and (max-width:480px){
+    .all{
+        max-width:480px ;
+    }
+    .nav-items a{
+        font-size:10px ;
+        margin:10px 3px ;
+    }
+    .container-1{
+        height:250px ;
+    }
+    .container-2{
+        background-color: black;
+    }
+    .con-1,.con-2{
+        flex-direction:column ;
+        justify-content: center;
+        align-items: center;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        width: 70%;
+        margin:10px 0 ;
+    }
+    .headlights,.tyre,.inside-tyre,.chair{
+        height:120px ;
+    }
+    .headlights h1{
+        font-size:14px ;
+        margin-left:10px ;
+        margin-bottom:5px ;
+    }
+    .headlights p{
+        margin-left:10px ;
+    }
+    .tyre h1{
+        font-size:14px ;
+        margin-left:10px ;
+        margin-bottom:5px ;
+    }
+    .tyre p{
+        margin-left:10px ;
+    }
+    .inside-tyre h1{
+        font-size:14px ;
+        margin-left:10px ;
+        margin-bottom:5px ;
+    }
+    .inside-tyre p{
+        margin-left:10px ;
+    }
+    .chair h1{
+        font-size:14px ;
+        margin-left:10px ;
+        margin-bottom:5px ;
+    }
+    .chair p{
+        margin-left:10px ;
+    }
+    .container-3 h1{
+        font-size:15px ;
+        width:160px ;
+        margin-left:0px ;
+    }
+    .wraper-1,.wraper-2,.wraper-3,.wraper-4,.wraper-5{
+        margin:10px 5px ;
+        width:100% ;
+    }
+    .wraper{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .wraper img{
+        width:100px ;
+    }
+    .heading{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .heading-1,.heading-2{
+        margin:0;
+    }
+    .heading-1{
+        margin-bottom:40px;
+    }
+}
+@media screen and (max-width:375px){
+    .all{
+        max-width: 375px;
+    }
+    .header-1 a{
+        font-size:10px ;
+    }
+    .nav-items{
+        flex-direction:column ; 
+    }
+    .nav-items a{
+        font-size:15px ;
+    }
+    .links{
+        justify-content: center;
+        align-items: center;
+    }
+    .lin-1,.lin-2{
+        flex-direction:column ;
+    }
+    .link-2,.link-4{
+        margin-top:20px ;
+    }
+}
